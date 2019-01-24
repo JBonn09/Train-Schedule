@@ -1,0 +1,10 @@
+.jumbotron {
+  background-image: url("https://res.cloudinary.com/hstcxjula/image/upload/v1/pages/japan_shinkansen/main-visual.png");
+
+  background-repeat: repeat-x;
+  background-size: 700px ;
+}
+
+body {
+  background-image: url("https://cdn4.vectorstock.com/i/1000x1000/86/88/cartoon-wood-texture-background-vector-21698688.jpg")
+}
